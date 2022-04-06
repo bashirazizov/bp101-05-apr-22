@@ -1,0 +1,16 @@
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\bin\Debug\net5.0\GenericsApp.exe
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\bin\Debug\net5.0\GenericsApp.deps.json
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\bin\Debug\net5.0\GenericsApp.runtimeconfig.json
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\bin\Debug\net5.0\GenericsApp.runtimeconfig.dev.json
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\bin\Debug\net5.0\GenericsApp.dll
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\bin\Debug\net5.0\ref\GenericsApp.dll
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\bin\Debug\net5.0\GenericsApp.pdb
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\obj\Debug\net5.0\GenericsApp.csproj.AssemblyReference.cache
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\obj\Debug\net5.0\GenericsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\obj\Debug\net5.0\GenericsApp.AssemblyInfoInputs.cache
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\obj\Debug\net5.0\GenericsApp.AssemblyInfo.cs
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\obj\Debug\net5.0\GenericsApp.csproj.CoreCompileInputs.cache
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\obj\Debug\net5.0\GenericsApp.dll
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\obj\Debug\net5.0\ref\GenericsApp.dll
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\obj\Debug\net5.0\GenericsApp.pdb
+C:\Users\Bashir Azizov\source\repos\GenericsApp\GenericsApp\obj\Debug\net5.0\GenericsApp.genruntimeconfig.cache
